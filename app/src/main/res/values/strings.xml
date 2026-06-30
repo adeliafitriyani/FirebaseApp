@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FirebaseExample</string>
+    <string name="tambah_data_pegawai">Tambah Data Pegawai</string>
+    <string name="masukan_nama">Masukan nama</string>
+    <string name="masukan_umur">Masukan umur</string>
+    <string name="masukan_pendapatan_rp">Masukan pendapatan (Rp)</string>
+    <string name="masukan_email">Masukan email</string>
+    <string name="simpan">Simpan</string>
+    <string name="ubah_data">Ubah Data</string>
+    <string name="hapus_data">Hapus Data</string>
+    <string name="id">ID</string>
+    <string name="email">Email</string>
+    <string name="umur">Umur</string>
+    <string name="pendapatan_rp">Pendapatan (Rp)</string>
+    <string name="employee_logo">Employee Logo</string>
+    <string name="employee_id">Employee ID</string>
+    <string name="employee_name">Employee Name</string>
+    <string name="employee_email">Employee Email</string>
+    <string name="employee_age">Employee Age</string>
+    <string name="employee_salary">Employee Salary</string>
+</resources>
