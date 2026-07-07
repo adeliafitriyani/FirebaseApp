@@ -8,9 +8,7 @@ android {
     namespace = "id.ac.polbeng.adelia.firebaseapp"
     compileSdk = 36
 
-    buildFeatures {
-        viewBinding = true
-    }
+
 
     defaultConfig {
         applicationId = "id.ac.polbeng.adelia.firebaseapp"
@@ -37,6 +35,10 @@ android {
     }
     kotlinOptions {
         jvmTarget = "11"
+    }
+
+    buildFeatures {
+        viewBinding = true
     }
 }
 

@@ -1,5 +1,6 @@
 package id.ac.polbeng.adelia.firebaseapp
 
+import android.annotation.SuppressLint
 import android.app.AlertDialog
 import android.content.Context
 import android.content.Intent
@@ -138,6 +139,7 @@ class EmployeeDetailActivity : AppCompatActivity() {
                     Toast.LENGTH_SHORT).show()
             }
     }
+    @SuppressLint("SuspiciousIndentation")
     fun showFullTextToast(context: Context, message: String) {
 // Inflate the custom layout
         val inflater = LayoutInflater.from(context)
